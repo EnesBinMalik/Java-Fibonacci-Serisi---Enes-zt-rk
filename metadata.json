@@ -1,0 +1,6 @@
+{
+  "name": "Java Fibonacci Serisi - Enes Öztürk",
+  "description": "Java döngüleri ile kullanıcıdan alınan eleman sayısına göre Fibonacci serisi hesaplayıcı, canlı kod simülatörü ve altın oran görselleştirici. Enes Öztürk imzasıyla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
